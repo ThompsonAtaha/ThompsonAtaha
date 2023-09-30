@@ -11,6 +11,6 @@ With a track record of excellence in delivering tailored solutions and a commitm
 
 🌍  I'm based in Lagos, Nigeria
 
-✉️  You can contact me via LinkedIn
+✉️  You can contact me via Email: tommyataha@gmail.com
 
-🧠  I'm learning Front End and Back End development
+🧠  I'm currently learning Front End and Back End development
